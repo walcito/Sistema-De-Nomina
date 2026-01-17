@@ -1,2 +1,19 @@
-# Sistema-De-Nomina
-About Sistema de nómina desarrollado como proyecto académico en .NET 8 y C#. Permite la gestión de empleados, el cálculo automático de pagos semanales y la generación de reportes según el tipo de contrato.
+Sistema de Nómina
+Este proyecto corresponde al desarrollo de una aplicación web para la gestión de pagos semanales de empleados. El sistema permite registrar empleados, calcular su pago semanal de acuerdo con su tipo de contratación y generar reportes de nómina.
+
+Tecnologías utilizadas
+.NET 8
+C#
+Aplicación Web
+Tipos de empleados
+Asalariado
+Por horas
+Por comisión
+Asalariado por comisión
+Funcionalidades principales
+Registro y actualización de empleados
+Cálculo automático de pagos semanales
+Generación de reportes de nómina
+Autor
+Waldin Ceballos Ramirez
+
