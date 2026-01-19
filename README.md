@@ -21,4 +21,4 @@ generar reportes de nómina.
 - Generación de reportes de nómina
 
 ## Autor
-Nombre del estudiante
+Wadin Ceballos Ramirez 
